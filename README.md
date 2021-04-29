@@ -21,8 +21,8 @@ and should be responsive to users screen sizes
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here](https://hk273.github.io/3-column-preview-card/)
+- Solution URL: [Solution]()
+- Live Site URL: [live site](https://hk273.github.io/3-column-preview-card/)
 
 ## My process
 
