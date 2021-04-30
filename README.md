@@ -21,7 +21,7 @@ and should be responsive to users screen sizes
 
 ### Links
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/three-column-preview-card-css-grid-yXF6KqigS)
 - Live Site URL: [Live Site](https://hk273.github.io/3-column-preview-card/)
 
 ## My process
@@ -42,6 +42,7 @@ For example, the way I have positioned the images, headings and paragraphs using
 Is there a better way to manage the position of elements without having content shift around like this?\
 \
 I guess I could've used more breakpoints to change the size of elements to prevent this but this seemed a pretty convoluted approach.\
+
 I did a fair amount of experimenting with the position property but couldn't come up with a solution. More revision definitely needed on my part.I also ended up putting the breakpoint at 1188px because of this content shifting issue.
 
 Alongside this, I also created three separate classes to style the button hover states - I'm sure there is a much neater approach to take!
