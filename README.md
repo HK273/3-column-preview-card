@@ -42,7 +42,7 @@ I'm pretty sure that a lot of my CSS could've been condensed or written more app
 For example, the way I have positioned the images, headings and paragraphs using margin makes the content shift around unevenly at certain screen sizes. 
 Is there a better way to manage the position of elements without having content shift around like this?\
 \
-I guess I could've used more breakpoints to change the size of elements to prevent this but this seemed a pretty convoluted approach.\
+I guess I could've used more breakpoints to change the size of elements to prevent this but this seemed a pretty convoluted approach.
 
 I did a fair amount of experimenting with the position property but couldn't come up with a solution. More revision definitely needed on my part.I also ended up putting the breakpoint at 1188px because of this content shifting issue.
 
