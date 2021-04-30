@@ -35,9 +35,7 @@ until each section matched the design as close as possible.
 
 ### Issues / Critiques
 
-Although I was quite happy with the end result and was pleasantly surprised with how quickly this came together (given my lack of experience)
-
-I'm pretty sure that a lot of my CSS could've been condensed or written more appropriately.\
+Although I was quite happy with the end result and was pleasantly surprised with how quickly this came together (given my lack of experience)I'm pretty sure that a lot of my CSS could've been condensed or written more appropriately.\
 \
 For example, the way I have positioned the images, headings and paragraphs using margin makes the content shift around unevenly at certain screen sizes. 
 Is there a better way to manage the position of elements without having content shift around like this?\
