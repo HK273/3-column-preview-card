@@ -88,5 +88,5 @@ I need to be spend a bit more time understanding the box model, positioning elem
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@HK237](https://www.frontendmentor.io/profile/HK-Data-Monkey)
 
