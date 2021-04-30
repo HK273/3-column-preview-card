@@ -35,7 +35,7 @@ until each section matched the design as close as possible.
 
 ### Issues / Critiques
 
-Although I was quite happy with the end result and was pleasantly surprised with how quickly this came together (given my lack of experience)\
+Although I was quite happy with the end result and was pleasantly surprised with how quickly this came together (given my lack of experience)
 
 I'm pretty sure that a lot of my CSS could've been condensed or written more appropriately.\
 \
