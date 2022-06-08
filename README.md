@@ -47,7 +47,7 @@ grid-template-columns: repeat(3, minmax(0, 1fr));
 ### Useful resources
 
 - [CSS Grid](https://yoksel.github.io/grid-cheatsheet/) - Gave me a great overview on grid
-- [CSS Grid](https://css-tricks.com/equal-width-columns-in-css-grid-are-kinda-weird/) - Helped me understanding how to produce equal columns when using grid
+- [CSS Grid](https://css-tricks.com/equal-width-columns-in-css-grid-are-kinda-weird/) - Helped me understand how to produce equal columns when using grid
 - [Markdown Preview](https://markdownlivepreview.com)
 
 ## Author
